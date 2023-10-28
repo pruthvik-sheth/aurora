@@ -1,5 +1,4 @@
 from image import Image
-from math import tan
 from ray import Ray
 from vector import Vector
 from color import Color

@@ -1,5 +1,4 @@
 import pygame as pg
-from image import Image
 from color import Color
 from vector import Vector
 from sphere import Sphere
@@ -7,7 +6,6 @@ from scene import Scene
 from engine import RenderEngine
 from material import Material
 from light import Light
-
 
 
 def main():
@@ -45,23 +43,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# def main():
-#     
-# if __name__ == "__main__":
-#     main()
